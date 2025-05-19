@@ -62,4 +62,5 @@ pnpm dev
 5. Deploy Vercel 
   - Build & Development pnpm install --no-frozen-lockfile 
 
+6. AUTH_SECRET: https://generate-secret.vercel.app/32
 Your app template should now be running on [localhost:3000](http://localhost:3000).
